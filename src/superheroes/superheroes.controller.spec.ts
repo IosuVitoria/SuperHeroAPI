@@ -24,11 +24,12 @@ describe('SuperheroesController', () => {
       humilityScore: 7,
     });
 
-    const result = controller.addSuperhero({
-      name: 'Thor',
-      superpower: 'Martillo de trueno',
-      humilityScore: 7,
-    });
+    const result = controller.addSuperhero(
+      'Thor', 
+      'Martillo de trueno',  
+      7  
+    );
+  
 
     expect(result).toEqual({
       id: 1,

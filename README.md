@@ -44,7 +44,7 @@ Ensure you have **Node.js** installed (preferably version 16+).
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/humble-superhero-api.git
+git https://github.com/IosuVitoria/SuperHeroAPI.git
 cd humble-superhero-api
 ```
 
@@ -126,9 +126,9 @@ To improve or expand this API, teamwork is essential. The best way to collaborat
 ---
 
 ## 👨‍💻 Author
-- **Your Name**
-- GitHub: [yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- **IosuVitoria**
+- GitHub: [IosuVitoria](https://github.com/IosuVitoria)
+- Email: iosugvaldecantos@gmail.com
 
 ---
 
@@ -175,7 +175,7 @@ Este proyecto sigue las **buenas prácticas de NestJS**, incluyendo validación,
 ## ⚙️ Instalación y Configuración
 ### 1️⃣ Clonar el Repositorio
 ```bash
-git clone https://github.com/yourusername/humble-superhero-api.git
+git clone https://github.com/IosuVitoria/SuperHeroAPI.git
 cd humble-superhero-api
 ```
 
@@ -220,7 +220,7 @@ Para mejorar o expandir esta API, se recomienda:
 ---
 
 ## 👨‍💻 Autor
-- **Tu Nombre**
-- GitHub: [yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- **IosuVitoria**
+- GitHub: [IosuVitoria](https://github.com/IosuVitoria)
+- Email: iosugvaldecantos@gmail.com
 
